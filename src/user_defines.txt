@@ -1,1 +1,3 @@
+-DMY_BINDING_PHRASE="Rusty_Clover6d"
+-DRegulatory_Domain_AU_915
 -DLOCK_ON_FIRST_CONNECTION
