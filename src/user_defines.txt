@@ -1,3 +1,4 @@
+-DMY_BINDING_PHRASE="Rusty_Clover_6d"
 -DRegulatory_Domain_FCC_915
 -DHOME_WIFI_SSID="POCOFONE F1"
 -DHOME_WIFI_PASSWORD="angelofdeath011"
